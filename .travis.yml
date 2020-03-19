@@ -17,7 +17,7 @@ notifications:
   email:
     recipients:
       - adoa2705@gmail.com
-    on_succes: always
+    on_success: always
     on_failure: always
 
 
