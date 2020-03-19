@@ -14,6 +14,7 @@ script:
   - yarn build
 
 notifications:
+  slack: alejo1403:cOlYqpCmXvPAEzIhazGXkeNF
   email:
     recipients:
       - adoa2705@gmail.com
